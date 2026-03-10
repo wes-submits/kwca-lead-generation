@@ -1,0 +1,114 @@
+custom_audience_request:
+  audience_name: "kwca_healthcare_pharma_intent_2026"
+  description: "Marketing decision-makers at pharmaceutical companies, healthcare marketing agencies, and healthcare martech providers actively researching intent data, audience targeting solutions, and HCP/patient journey targeting capabilities"
+  
+  criteria:
+    primary_keywords:
+      # HCP Targeting
+      - "HCP targeting"
+      - "physician audience"
+      - "healthcare provider data"
+      - "medical professional targeting"
+      - "prescriber audience"
+      - "specialist physician lists"
+      - "nurse practitioner data"
+      
+      # Pharma Marketing
+      - "pharmaceutical marketing"
+      - "pharma marketing data"
+      - "drug marketing audience"
+      - "pharma DTC"
+      - "pharmaceutical audience"
+      - "prescription drug marketing"
+      - "pharma media buying"
+      
+      # Patient Journey
+      - "patient journey targeting"
+      - "condition-specific audience"
+      - "diabetes patient audience"
+      - "oncology audience"
+      - "chronic disease targeting"
+      - "patient intent data"
+      - "disease state targeting"
+      
+      # Data Partnerships
+      - "healthcare data API"
+      - "healthcare audience data"
+      - "healthcare data partnership"
+      - "healthcare intent data"
+      - "healthcare data integration"
+      
+    contextual_signals:
+      url_keywords:
+        - "audience"
+        - "targeting"
+        - "data"
+        - "healthcare"
+        - "pharma"
+        - "HCP"
+        - "physician"
+        - "patient"
+        - "intent"
+        
+      title_keywords:
+        - "healthcare marketing"
+        - "pharmaceutical marketing"
+        - "audience data"
+        - "intent data"
+        - "HCP targeting"
+        - "patient targeting"
+        - "healthcare data"
+        
+      headline_keywords:
+        - "reach physicians"
+        - "healthcare audiences"
+        - "pharma marketing"
+        - "patient journey"
+        - "HCP data"
+        - "intent signals"
+        
+    intent_categories:
+      high_intent:
+        - "buy audience data"
+        - "purchase healthcare data"
+        - "audience data vendor"
+        - "healthcare data provider"
+        - "pharma marketing platform"
+        
+      mid_intent:
+        - "healthcare data comparison"
+        - "pharma marketing tools"
+        - "HCP targeting platforms"
+        - "audience data features"
+        
+      research:
+        - "healthcare marketing guide"
+        - "pharma targeting strategies"
+        - "HCP marketing best practices"
+        - "patient journey mapping"
+        
+  expected_audience_size: "75k-150k"
+  refresh_frequency: "daily"
+  
+  # LinkedIn-specific overlay (for campaign use)
+  linkedin_targeting:
+    job_titles:
+      - "VP Marketing"
+      - "Director of Marketing"
+      - "Digital Marketing Manager"
+      - "Media Director"
+      - "Account Director"
+      - "Marketing Manager"
+    company_industries:
+      - "Pharmaceuticals"
+      - "Biotechnology"
+      - "Marketing & Advertising"
+      - "Hospital & Health Care"
+      - "Computer Software"  # MarTech
+    company_size:
+      - "51-200 employees"
+      - "201-500 employees"
+      - "501-1000 employees"
+      - "1001-5000 employees"
+      - "5001-10,000 employees"
+      - "10,001+ employees"
